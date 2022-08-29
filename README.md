@@ -1,2 +1,0 @@
-# amirali
-project
